@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "優しいあの子",
+  "base_artist": "Spitz",
+  "createdAt": "2026-03-08T09:22:22.783514Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "優しいあの子",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/01_優しいあの子_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "優しいあの子",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/02_優しいあの子_スピッツ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "優しいあの子",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_優しいあの子_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "優しいあの子",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_02_優しいあの子_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "優しいあの子",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_03_優しいあの子_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "優しいあの子",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_04_優しいあの子_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "優しいあの子",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_05_優しいあの子_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "優しいあの子",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_06_優しいあの子_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "優しいあの子",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_07_優しいあの子_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "優しいあの子",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_08_優しいあの子_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "優しいあの子 (a secret session in Obihiro)",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_09_優しいあの子_(a_secret_session_in_Obihiro)_スピッツ.txt"
+    }
+  ]
+}
